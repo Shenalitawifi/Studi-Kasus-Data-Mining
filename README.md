@@ -2,7 +2,7 @@
 
 Class : **C**
 
-**Anggota : **
+**Anggota :**
 1. Shenalita Dwifi         (2000018290)
 2. Sintya Putri Maretia    (2000018256)
 3. Wahyu Aji Pradani       (2000018255)
