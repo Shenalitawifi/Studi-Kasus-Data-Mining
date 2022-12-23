@@ -1,11 +1,11 @@
 # Studi-Kasus-Data-Mining
 
-class : C
+class : **C**
 
-1.Shenalita Dwifi         (2000018290)
-2.Sintya Putri Maretia    (2000018256)
-3.Wahyu Aji Pradani       (2000018255)
-4.Ratu Anabella Siburian  (2000018241)
+-Shenalita Dwifi         (2000018290)
+-Sintya Putri Maretia    (2000018256)
+-Wahyu Aji Pradani       (2000018255)
+-Ratu Anabella Siburian  (2000018241)
 
 Studi Kasus : **Menentukan estimasi biaya harga rumah berdasarkan Persebarannya**
 
