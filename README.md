@@ -12,6 +12,6 @@ Studi Kasus : ***Menentukan estimasi biaya harga rumah berdasarkan Persebarannya
 
 Disini terdapat Studi kasus beserta data yang telah kelompok kami pilih untuk memenuhi tugas Data Mining
 dimana minimal datanya yaitu 100 record.
-Data yang digunakan adalah *Data Rumah* untuk melakukan *Classification(Pengelompokkan)*
+Data yang digunakan adalah *Data Rumah* untuk melakukan *Clustering*
 
 
